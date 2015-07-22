@@ -1,15 +1,3 @@
-// $(function(){
-// $('#ajout').click(function(){
-// $('.icones').toggleClass('is-collapse');
-// });
-// });
-
-// $(function(){
-// $('#person').click(function(){
-// $('.profile').toggleClass('collapse');
-// });
-// });
-
 $(document).ready(function(){
  
   $("#ajout").click(function(){   
